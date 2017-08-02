@@ -22,6 +22,7 @@
 		27DD27B11F322C5C00421F8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27DD27B41F322C5C00421F8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27DD27B61F322C5C00421F8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27DD27BC1F3238E400421F8A /* Finish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Finish.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				27DD27AC1F322C5C00421F8A /* ViewController.swift */,
 				27DD27AE1F322C5C00421F8A /* Main.storyboard */,
 				27DD27B11F322C5C00421F8A /* Assets.xcassets */,
+				27DD27BC1F3238E400421F8A /* Finish.png */,
 				27DD27B31F322C5C00421F8A /* LaunchScreen.storyboard */,
 				27DD27B61F322C5C00421F8A /* Info.plist */,
 			);
